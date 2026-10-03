@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of littlegolden/flarum-lang-japanese.** Not for installation: use [Packagist](https://packagist.org/packages/littlegolden/flarum-lang-japanese) or the [upstream repository](https://github.com/Littlegolden/flarum-lang-japanese).
 
-**0** versions archived · Latest: [`v0.1.67.1`](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.67.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**72** versions archived · Latest: [`v0.1.67.1`](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.67.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.1` | 2020-01-26 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.1) |
+| `v0.1.10.1` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.10.1) |
+| `v0.1.11.1` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.11.1) |
+| `v0.1.12.1` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.12.1) |
+| `v0.1.13.1` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.13.1) |
+| `v0.1.14.1` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.14.1) |
+| `v0.1.15.1` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.15.1) |
+| `v0.1.16.1` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.16.1) |
+| `v0.1.17.1` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.17.1) |
+| `v0.1.18.1` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tree/archive/v0.1.18.1) |
+
+[View all 72 versions](https://github.com/flarchive/littlegolden-flarum-lang-japanese/tags)
 
 Catalog entry: [packages/littlegolden-flarum-lang-japanese.json](https://github.com/flarchive/archive-index/blob/main/packages/littlegolden-flarum-lang-japanese.json)
 
